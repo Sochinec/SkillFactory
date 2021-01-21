@@ -1,2 +1,2 @@
 # SkillFactory
-# some update
+This is repository for SkillFactory solutions.
